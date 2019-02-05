@@ -1,5 +1,7 @@
 <?php
 include'database.php';
+
+//his
 ?>
 <!doctype HTML>
 <html>
@@ -15,6 +17,6 @@ include'database.php';
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head><body>
-<body style="background-image: url('logo.jpg');background-repeat: no-repeat;background-position: center;position: relative;">
+<body style="background-image: url('logo.jpg');background-repeat: no-repeat;background-position: center;position: relative;">knujljnujnm
 </body>
 </html>
